@@ -9,12 +9,18 @@ class C{
 		
 		void MC1();
 		void MC2();
+		void MC3();
 }
 
-void C::MC1(){]
+void C::MC1(){
 	cout << "Esse é o método MC1!" << endl;
 }
 
-void C::MC2(){]
+void C::MC2(){
 	cout << "Esse é o método MC2!" << endl;
 }
+
+void C::MC3(){
+	cout << "Esse é o método MC3!" << endl;
+}
+
