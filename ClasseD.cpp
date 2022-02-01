@@ -9,6 +9,7 @@ class D{
 		
 		void MD1();
 		void MD2();
+		void MD3();
 }
 
 void D::MD1(){
@@ -17,6 +18,10 @@ void D::MD1(){
 
 void D::MD2(){
 	cout << "Você está na MD2!" << endl;
+}
+
+void D::MD3(){
+	cout << "Você está na MD3!" << endl;
 }
 
 
